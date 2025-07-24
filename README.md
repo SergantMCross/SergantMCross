@@ -23,7 +23,7 @@
 ## 📊 Intel Summary
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=librespectre&hide_title=true&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=450" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SergantMCross&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 
