@@ -31,7 +31,7 @@
 
 ---
 
-## 📡 Contact & Field Links
+## 📡 Contact & Field Links (Non-Available For Now)
 
 <p>
   <a href="https://michaelcross.dev">
