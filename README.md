@@ -7,13 +7,11 @@
   <img src="https://img.shields.io/badge/🎯_Mission-Secure_Software_Infrastructure-d4a5a5?style=flat-square" />
 </p>
 
----
 
 ## 🧠 About Me
 
 - 💻 Systems tinkerer with a passion for low-level control, memory management, and hardened architectures.
 
----
 
 ## ⚙️ Arsenal
 
@@ -21,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
 </div>
 
----
 
 ## 📊 Intel Summary
 
@@ -29,7 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=librespectre&hide_title=true&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=450" height="200" />
 </div>
 
----
 
 ## 📡 Contact & Field Links (Non-Available For Now)
 
@@ -45,7 +41,6 @@
   </a>
 </p>
 
----
 
 <details>
 <summary><strong>🪖 ACTIVE OPERATIONS</strong></summary>
