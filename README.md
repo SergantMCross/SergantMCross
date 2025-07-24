@@ -48,5 +48,6 @@
 - 🔬 Writing procedural C documentation for internal modules  
 - 🛡️ Studying containment strategies for malware & exploit testing  
 - 🧠 Reviewing core systems theory for discipline refinement  
-- 🖥️ Planning deployment of homelab with isolated secure subsystems  
+- 🖥️ Planning deployment of homelab with isolated secure subsystems
+- 🖥️ Surviving Tech Outpost Post-apocalypse version
 </details>
