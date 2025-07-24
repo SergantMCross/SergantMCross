@@ -1,5 +1,5 @@
-<h1 align="center">🪖 Sergant Michael Cross</h1>
-<h3 align="center"><code>aka LibreSpectre</code></h3>
+<h1 align="center">🪖 Sergant Michael Cross - SMIU “Red Star” </h1>
+<h2 align="center"><code>aka LibreSpectre</code></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🧠_Role-Systems_Engineer-ccc8ff?style=flat-square" />
