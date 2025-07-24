@@ -1,79 +1,57 @@
-<h1 align="center">🎀 Larvene Jafem 자 깡</h1>
-<h3 align="center"><code>aka J01K3rn9lGh0st</code></h3>
+<h1 align="center">🪖 Sergant Michael Cross</h1>
+<h3 align="center"><code>aka LibreSpectre</code></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠_Role-Technician-ffb7e0?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_Level-Beginner_Coder-ffccf9?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔐_Focus-Cybersecurity-bdb2ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠_Role-Systems_Engineer-ccc8ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔐_Specialty-Low_Level_Programming-b6f0ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎯_Mission-Secure_Software_Infrastructure-d4a5a5?style=flat-square" />
 </p>
 
 ---
 
-## 🧁 About Me
+## 🧠 About Me
 
-- 🕹️ Exploring indie game development with Python (Pygame, Godot plans maybe?)
-- 💡 Background in scripting, desktop tools, and reverse engineering
-- 🧠 Took a 2-year break (2023–2025) from dev, now back in the code zone
-- 🧃 Cybersec meets cotton candy vibes
+- 💻 Systems tinkerer with a passion for low-level control, memory management, and hardened architectures.
 
 ---
 
-## ⌨️ Past Tech Stack (now reviving)
+## ⚙️ Arsenal
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
 </div>
 
 ---
 
-## 🛠️ Current Toolset
+## 📊 Intel Summary
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,visualstudio,bash" />
-  <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=librespectre&hide_title=true&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=450" height="200" />
 </div>
 
 ---
 
-## 🍡 Language Usage (Top Langs)
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larvenejafemcoder&hide_title=true&layout=compact&langs_count=6&theme=jolly&hide_border=true&card_width=450" height="200" />
-</div>
-
----
-
-## 🎮 Indie Game Dev Notes
-
-- 🧸 Focus: 2D game engines & scripting logic
-- 🔤 Languages: Python (Pygame), some past Unity/C#  
-- 🪄 Design: Low-poly, pixel art, or dreamy glitchcore aesthetics  
-- 🎯 Goal: Learn by shipping tiny broken games 💥
-
----
-
-## 🌸 Social Links
+## 📡 Contact & Field Links
 
 <p>
-  <a href="https://larvenejafemabout.netlify.app/">
-    <img src="https://img.shields.io/badge/My_Site-larvene.dev-ffc6ff?style=flat-square&logo=firefox-browser" />
+  <a href="https://michaelcross.dev">
+    <img src="https://img.shields.io/badge/Command_Post-michaelcross.dev-9ecfff?style=flat-square&logo=firefox-browser" />
   </a>
-  <a href="https://github.com/larvenejafemcoder">
-    <img src="https://img.shields.io/badge/GitHub-larvenejafemcoder-cdb4db?style=flat-square&logo=github" />
+  <a href="https://github.com/librespectre">
+    <img src="https://img.shields.io/badge/GitHub-@librespectre-b4c0ff?style=flat-square&logo=github" />
   </a>
-  <a href="https://patreon.com/LarveneJafem?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">
-    <img src="https://img.shields.io/badge/Patreon-Support%20Me-ffafcc?style=flat-square&logo=patreon" />
+  <a href="https://linkedin.com/in/sgtmichaelcross">
+    <img src="https://img.shields.io/badge/LinkedIn-SgtMichaelCross-ced4ff?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 <details>
-<summary><strong>🫧 CURRENT FOCUS</strong></summary>
+<summary><strong>🪖 ACTIVE OPERATIONS</strong></summary>
 
-- 🧪 Hardened VMs for malware + netsec testing  
-- 🎮 Learning Pygame & game loops  
-- 💻 Revisiting past stacks with more discipline  
-- 🔍 Trying reverse engineering + exploit dev  
-- 🦊 Privacy-focused workflows  
+- 🔬 Writing procedural C documentation for internal modules  
+- 🛡️ Studying containment strategies for malware & exploit testing  
+- 🧠 Reviewing core systems theory for discipline refinement  
+- 🖥️ Planning deployment of homelab with isolated secure subsystems  
 </details>
