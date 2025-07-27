@@ -1,4 +1,5 @@
-# 🪖 Sergant Michael Cross - SMIU “Red Star” </h1>
+# 🪖 Sergant Michael Cross - Part of Union of Space Marine Intelligence (USMI)” </h1>
+## "🎖️RedStar Brand ☭"
 <h2 align="left"><code>aka LibreSpectre</code></h2>
 
 <p align="left">
