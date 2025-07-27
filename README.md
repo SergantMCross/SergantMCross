@@ -1,7 +1,7 @@
-<h1 align="center">🪖 Sergant Michael Cross - SMIU “Red Star” </h1>
-<h2 align="center"><code>aka LibreSpectre</code></h2>
+# 🪖 Sergant Michael Cross - SMIU “Red Star” </h1>
+<h2 align="left"><code>aka LibreSpectre</code></h2>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/🧠_Role-Systems_Engineer-ccc8ff?style=flat-square" />
   <img src="https://img.shields.io/badge/🔐_Specialty-Low_Level_Programming-b6f0ff?style=flat-square" />
   <img src="https://img.shields.io/badge/🎯_Mission-Secure_Software_Infrastructure-d4a5a5?style=flat-square" />
