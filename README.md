@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,c,cpp,bash,docker" />
 </div>
 
-- **Languages:** C, C++, Bash scripting, Assembly (x86/x64)  
+- **Languages:** C, C++, Bash scripting 
 - **Systems:** Windows, Linux (Arch, Debian-based)  
 - **Tools:** VS Code, Git, Docker, GNU Toolchain  
 - **Specialties:** Secure firmware development, memory forensics, exploit mitigation, modular software design
