@@ -1,3 +1,3 @@
-# 🪖 Sergant Michael Cross - Space Marine Intelligence (USMI)
+# Sergant Michael Cross - Space Marine Intelligence (USMI)
 
 ## 🇰🇵 RedStar North Korean Marine
